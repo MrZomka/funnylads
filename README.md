@@ -4,7 +4,7 @@ Made this project for a friend of mine because we love Acapela voices but we don
 [List of voices](https://github.com/weespin/WillFromAfarDownloader/blob/master/AcapellaDownloader/Voices.cs)
 
 ## Dependecies
-System: ffmpeg
+System: ffmpeg \
 Python: ``pip install requests pydub pytchat``
 
 ## Credits
